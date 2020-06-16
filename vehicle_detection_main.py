@@ -1,10 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# ----------------------------------------------
-# --- Author         : Ahmet Ozlu
-# --- Mail           : ahmetozlu93@gmail.com
-# --- Date           : 27th January 2018
-# ----------------------------------------------
 
 # Imports
 import numpy as np
